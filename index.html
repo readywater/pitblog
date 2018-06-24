@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <span class="post-meta"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
+          <div class="excerpt">{{ post.excerpt }}</div>
+        </h2>
+         
+      </li>
+
+    {% endfor %}
+  </ul>
+
+{% include pagination.html %}

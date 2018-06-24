@@ -1,0 +1,20 @@
+--- 
+- 
+  name: "Andrew Lovett-Barron"
+  bio: "Andrew Lovett-Barron is a designer, researcher, and facilitator living in Copenhagen. <br>He was a principal designer and team lead at IDEO in Palo Alto, was the first designer at the Pentagon while a member of United States Digital Service, and ran Relay Studio, a small art and design shop in Toronto. Most recently, he was a Public Interest Tech fellow at New America researching technology ventures with social good missions. <br>Andrew is drawn to collaborations with teams building in environments of extreme complexity. This includes the Planned Parenthood, USTRANSCOM, NATO Operation Resolute Support (TAA/SFAC), Ford Smart Mobility, IKEA, Caterpillar, and Mozilla. He also occasionally goes rogue, and creates products like Pedal Pedal Club, an inclusive cycling application; the Grant Calculator to help philanthropic orgs make better financial decisions; Decay of Digital Things, a sustainability for Internet of Things popup class at the Stanford d.school; and Stoke, an auditorium-sized interactive installation experience for Toronto’s Nuit Blanche.<br>He has dual citizenship in the United States and Canada, and is certified as a wilderness medical first responder.\"\n"
+  img: images/andrew.jpg
+  links: 
+    - 
+      link: "http://andrewlb.com"
+      title: andrewlb.com
+    - 
+      link: "https://github.com/Mulligan-Fund/grant-calculator"
+      title: "Grant Calculator"
+  mini: 
+    - 
+      item: "Product Designer"
+    - 
+      item: "PIT Fellow, 2017"
+    - 
+      item: "Former US Digital Service, IDEO"
+      

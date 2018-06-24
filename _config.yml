@@ -1,0 +1,37 @@
+# Site settings
+title: "Social Ventures"
+title-font-size: '4em' # a provision to adjust the size of your title. If it is too long then do resize to a smaller value. By default it will be 4em.
+
+email: alb@andrewlb.com
+description: > 
+  Test
+baseurl: "/newamerica" # the subpath of your site, e.g. /blog
+url: "http://newamerica.andrewlb.com"
+
+permalink: :title/
+
+# Build settings
+markdown: kramdown
+highlight: rouge
+paginate: 5
+paginate_path: /page:num/
+
+
+# Tracker
+analytics:
+
+# Comments
+disqus-shortname: 
+
+# Contact form
+# Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
+api-token:   
+
+#CSS
+sass:
+  style: compressed
+
+
+include: [_pages]
+
+plugins: [jekyll-paginate, jekyll-seo-tag]
