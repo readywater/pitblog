@@ -6,7 +6,7 @@ email: alb@andrewlb.com
 description: > 
   Writing from 2017/2018 New America Public Interest Tech fellowship
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://pit.andrewlb.com"
+url: "//pit.andrewlb.com"
 
 permalink: :url/
 
