@@ -10,7 +10,7 @@ permalink: /about/
 		{% if contrib.img %}
 		<div class="top">
 			<div class="short">
-			<h3>{{ contrib.name }}</h3>
+			<h2>{{ contrib.name }}</h2>
 			{% for link in contrib.links %}
 				<a href="{{link.link}}">{{link.title}}</a><br/>
 			{% endfor %}		
