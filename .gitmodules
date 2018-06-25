@@ -1,3 +1,6 @@
 [submodule "_config"]
 	path = _config
 	url = git@github.com:NewAmericaPIT/_config.git
+[submodule "_data/_config"]
+	path = _data/_config
+	url = git@github.com:NewAmericaPIT/_config.git

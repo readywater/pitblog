@@ -31,7 +31,7 @@ permalink: /about/
 <hr>
 <h2>Other Public Interest Tech Fellows</h2>
 <div class="fellows">
-{% for contrib in site.config.fellows %}
+{% for contrib in site.data._config.fellows %}
 	<div class="bio">
 		{% if contrib.img %}
 		<div class="top">
