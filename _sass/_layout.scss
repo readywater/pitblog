@@ -1,10 +1,10 @@
 
-   *{
-    -webkit-transition: all 0.2s; /* Safari */
-    -webkit-transition-timing-function: linear; /* Safari */
-    transition: all 0.2s;
-    transition-timing-function: linear;
-      }
+ *{
+  -webkit-transition: all 0.2s; /* Safari */
+  -webkit-transition-timing-function: ease-in-out; /* Safari */
+  transition: all 0.2s;
+  transition-timing-function: ease-in-out;
+    }
 
 /**
  * Site header
