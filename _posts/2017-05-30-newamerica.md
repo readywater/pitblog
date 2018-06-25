@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Joining New America"
-author: andrew
-description: "Today was my last day with the US Digital Service."
+author: Andrew Lovett-Barron
+permalink: newamerica
+description: Today was my last day with the US Digital Service.
 comments: true
 tags: [usds, newamerica,work]
 image: '/images/posts/newamerica.jpg'

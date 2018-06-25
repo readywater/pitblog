@@ -5,15 +5,15 @@ title-font-size: '4em' # a provision to adjust the size of your title. If it is 
 email: alb@andrewlb.com
 description: > 
   Test
-baseurl: "/newamerica" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://newamerica.andrewlb.com"
 
-permalink: :title/
+permalink: :url/
 
 # Build settings
 markdown: kramdown
 highlight: rouge
-paginate: 5
+paginate: 10
 paginate_path: /page:num/
 
 

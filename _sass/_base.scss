@@ -1,15 +1,15 @@
 @font-face {
     font-family: 'NoeDisplay';
-    src: url('../font/NoeDisplay-Regular.woff2') format('woff2'),
-         url('../font/NoeDisplay-Regular.woff') format('woff');
+    src: url('/font/NoeDisplay-Regular.woff2') format('woff2'),
+         url('/font/NoeDisplay-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Futura';
-    src: url('../font/FuturaStd-Medium.woff2') format('woff2'),
-        url('../font/FuturaStd-Medium.woff') format('woff');
+    src: url('/font/FuturaStd-Medium.woff2') format('woff2'),
+        url('/font/FuturaStd-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
 }

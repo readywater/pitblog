@@ -7,13 +7,22 @@ permalink: /about/
 <div class="bio">
 	{% for contrib in site.data.bio %}
 		{% if contrib.img %}
+		<div class="top">
+			<div class="short">
+			<h3>{{ contrib.name }}</h3>
+			{% for link in contrib.links %}
+				<a href="{{link.link}}">{{link.title}}</a><br/>
+			{% endfor %}		
+			<ul>
+			{% for mini in contrib.mini %}
+				<li>{{mini.item}}</li>
+			{% endfor %}			
+			</ul>	
+			</div>
 			<img src="{{ contrib.img }}">
+		</div>
 		{% endif %}
-		<div class="name">{{ contrib.name }}</div>
 		<div class="bio">{{ contrib.bio}}</div>
-		{% for link in contrib.links %}
-			<a href="{{link.link}}">{{link.title}}</a><br/>
-		{% endfor %}			
 	{% endfor %}
 </div>
 

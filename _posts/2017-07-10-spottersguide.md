@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "A Spotter's Guide to Social Product Ventures"
-author: andrew
+author: Andrew Lovett-Barron
+permalink: social-product-spotter-guide
 description: "When 'I know it when I see it' isn't good enough for building software in the public interest"
 comments: true
 tags: [social venture design, newamerica, research]

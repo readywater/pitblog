@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Social Product Ventures"
-author: andrew
+author: Andrew Lovett-Barron
+permalink: social-product-ventures
 description: "How do you build sustainable software in the public interest?"
 comments: true
 tags: [social venture design, newamerica, research]
