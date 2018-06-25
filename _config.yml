@@ -6,13 +6,16 @@ email: alb@andrewlb.com
 description: > 
   Writing from 2017/2018 New America Public Interest Tech fellowship
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pit.andrewlb.com"
+url: "pit.andrewlb.com"
 
 permalink: :url/
 
 # Build settings
 markdown: kramdown
 highlight: rouge
+paginate: 20
+paginate_path: /page:num/
+
 
 # Tracker
 analytics:
@@ -31,4 +34,4 @@ sass:
 
 include: [_pages]
 
-plugins: [jekyll-seo-tag]
+plugins: [jekyll-paginate, jekyll-seo-tag]
