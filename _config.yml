@@ -13,9 +13,6 @@ permalink: :url/
 # Build settings
 markdown: kramdown
 highlight: rouge
-paginate: 10
-paginate_path: /page:num/
-
 
 # Tracker
 analytics:
@@ -34,4 +31,4 @@ sass:
 
 include: [_pages]
 
-plugins: [jekyll-paginate, jekyll-seo-tag]
+plugins: [jekyll-seo-tag]
