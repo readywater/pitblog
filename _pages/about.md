@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-<div class="bio">
-	{% for contrib in site.data.bio %}
+
+{% for contrib in site.data.bio %}
+	<div class="bio">
 		{% if contrib.img %}
 		<div class="top">
 			<div class="short">
@@ -22,9 +23,9 @@ permalink: /about/
 			<img src="{{ contrib.img }}">
 		</div>
 		{% endif %}
-		<div class="bio">{{ contrib.bio}}</div>
-	{% endfor %}
-</div>
+		<div class="bio-text">{{ contrib.bio}}</div>
+	</div>
+{% endfor %}
 
 <a class="github-button" href="https://github.com/readywater/pitblog" data-style="mega" data-count-href="/readywater/pitblog" data-count-api="/repos/readywater/pitblog#stargazers_count" data-count-aria-label="# readywater on GitHub" aria-label="Star readywater/pitblog on GitHub">Star</a>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
