@@ -47,7 +47,7 @@ permalink: /about/
 			</div>
 			{% if contrib.img %}
 				<img src="http://newamericapit.github.io/_config/images/{{ contrib.img }}">
-			{%e else %}
+			{% else %}
 				<img src="http://newamericapit.github.io/_config/images/nophoto.png">
 			{% endif %}
 		</div>
