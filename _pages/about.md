@@ -34,6 +34,11 @@ permalink: /about/
 {% for contrib in site.data._config.fellows %}
 	<div class="bio">
 		<div class="top">
+			{% if contrib.img %}
+				<img src="http://newamericapit.github.io/_config/images/{{ contrib.img }}">
+			{% else %}
+				<img src="http://newamericapit.github.io/_config/images/nophoto.png">
+			{% endif %}
 			<div class="short">
 			<h2>{{ contrib.name }}</h2>
 			{% for link in contrib.links %}
@@ -45,11 +50,6 @@ permalink: /about/
 			{% endfor %}			
 			</ul>	
 			</div>
-			{% if contrib.img %}
-				<img src="http://newamericapit.github.io/_config/images/{{ contrib.img }}">
-			{% else %}
-				<img src="http://newamericapit.github.io/_config/images/nophoto.png">
-			{% endif %}
 		</div>
 	</div>
 {% endfor %}
