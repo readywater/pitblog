@@ -11,11 +11,7 @@ image: '/images/posts/ldln.jpg'
 
 ## International development and disaster tech
 
-
-![Responders using LDLN](images/posts/ldln.jpg)
-
-
-"You are not connected to a network."
+##"You are not connected to a network."
 
 When flashed across a screen on any range of devices, these words often describe a bottleneck to the work we  were trying to get done. For thousands of New Yorkers in 2012, this barrier came with the torrential rain and devastation wrought by Hurricane Sandy. For millions of victims and first responders of natural disasters since, it represents a barrier to contacting loved ones, discovering safe zones, tracking relief efforts, and simply staying updated.
 

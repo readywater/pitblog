@@ -11,9 +11,6 @@ image: '/images/posts/blueridge.jpg'
 
 ## Blue Ridge Labs and and a modern vision for social entrepreneurship
 
-![alt_text](images/posts/blueridge.jpg)
-
-
 "We run all of our accelerator programs like they're products, and with each round, we improve and iterate on that product."
 
 Hannah Calhoon is the brains and no small amount of the energy behind the inspirational Blue Ridge Labs, a social enterprise accelerator that lives as part of the Robin Hood Foundation. Robin Hood's mission is to fight poverty and its corollaries in New York City, and Blue Ridge fits into this by funding and catalyzing early stage ventures that fit into that story. They provided some of the early capital for Propel, which looked to tackle the accessibility and dignity surrounding foodstamps and electronic benefits transfer. They supported UpSolve, which provides a way of reclaiming financial independence for low-income Americans saddled with crippling debt. They also supported JustFix.nyc, a social venture which provides tools and technical support for the low-income housing and tenant advocacy space.

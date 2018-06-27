@@ -6,7 +6,7 @@ permalink: design-thinking-for-gov
 description: Four tools to lear your workshop
 comments: true
 tags: [social venture design, newamerica, research, propel, casestudy]
-image: '/images/posts/20170731-propel.jpg'
+image: '/images/posts/bureau.jpg'
 ---
 
 ## Four Tools to Navigate Complexity
@@ -91,13 +91,13 @@ When you are finished, you will have duplicate roles. This is fine, and you can 
 
 #### Worksheet
 
-![Work sheet](images/myst1.jpg)
+![Work sheet](/images/posts/myst1.jpg)
 
 
 
 #### Example Scenario
 
-![example of worksheet](images/myst1-demo.jpg)
+![example of worksheet](/images/posts/myst1-demo.jpg)
 
 
 ### Mapping the Pantheon (Mapping the Roles)
@@ -127,13 +127,13 @@ The path is important because it tells us where one smaller story starts, where 
 
 #### Worksheet
 
-![Work sheet](images/myst2.jpg)
+![Work sheet](/images/posts/myst2.jpg)
 
 
 
 #### Example Scenario
 
-![example of worksheet](images/myst2-demo.jpg)
+![example of worksheet](/images/posts/myst2-demo.jpg)
 
 ### Mapping the Actors (Figuring out your wedge)
 
@@ -158,13 +158,13 @@ Looking at the two axes on the graph, plot where they might be. This particular 
 
 #### Worksheet
 
-![Work sheet](images/myst3.jpg)
+![Work sheet](/images/posts/myst3.jpg)
 
 
 
 #### Example Scenario
 
-![example of worksheet](images/myst3-demo.jpg)
+![example of worksheet](/images/posts/myst3-demo.jpg)
 
 
 ### The Mysteries (Mapping the dark matter)
@@ -193,13 +193,13 @@ This activity is best done in a team setting, where everyone can contribute thei
 
 #### Worksheet
 
-![Work sheet](images/myst4.jpg)
+![Work sheet](/images/posts/myst4.jpg)
 
 
 
 #### Example Scenario
 
-![example of worksheet](images/myst4-demo.jpg)
+![example of worksheet](/images/posts/myst4-demo.jpg)
 
 
 
