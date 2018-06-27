@@ -11,10 +11,9 @@ image: '/images/posts/20170731-propel.jpg'
 
 ## Four Tools to Navigate Complexity
 
-
 ## Intro
 
-_These tools were taught as a workshop to the first Code for Canada fellowship team in November, 2017._
+_These tools were taught as a workshop to the first [Code for Canada fellowship](https://codefor.ca/) team in November, 2017._
 
 Building the actual product or technology is rarely the coda on the work that is social entrepreneurship and government software. More frequently, we see much of the labour existing in collaboration with our government and civil society partners: in building consensus, forming coalitions, cutting through roadblocks, and mapping the bureaucracy.
 
@@ -92,13 +91,13 @@ When you are finished, you will have duplicate roles. This is fine, and you can 
 
 #### Worksheet
 
-![alt_text](images/Bureaucratic-Mysteries0.png "image_tooltip")
+![Work sheet](images/myst1.jpg)
 
 
 
 #### Example Scenario
 
-![alt_text](images/Bureaucratic-Mysteries1.jpg "image_tooltip")
+![example of worksheet](images/myst1-demo.jpg)
 
 
 ### Mapping the Pantheon (Mapping the Roles)
@@ -128,13 +127,13 @@ The path is important because it tells us where one smaller story starts, where 
 
 #### Worksheet
 
-![alt_text](images/Bureaucratic-Mysteries2.png "image_tooltip")
+![Work sheet](images/myst2.jpg)
 
 
 
 #### Example Scenario
 
-![alt_text](images/Bureaucratic-Mysteries3.jpg "image_tooltip")
+![example of worksheet](images/myst2-demo.jpg)
 
 ### Mapping the Actors (Figuring out your wedge)
 
@@ -159,20 +158,13 @@ Looking at the two axes on the graph, plot where they might be. This particular 
 
 #### Worksheet
 
-
-
-![alt_text](images/Bureaucratic-Mysteries4.png "image_tooltip")
+![Work sheet](images/myst3.jpg)
 
 
 
 #### Example Scenario
 
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Bureaucratic-Mysteries5.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Bureaucratic-Mysteries5.jpg "image_tooltip")
+![example of worksheet](images/myst3-demo.jpg)
 
 
 ### The Mysteries (Mapping the dark matter)
@@ -198,25 +190,16 @@ Indicate the directionality of relationships too. These can sometimes be bi-dire
 This activity is best done in a team setting, where everyone can contribute their opinion and perspectives on the relationships. 
 
 
+
 #### Worksheet
 
+![Work sheet](images/myst4.jpg)
 
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Bureaucratic-Mysteries6.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Bureaucratic-Mysteries6.png "image_tooltip")
- 
 
 
 #### Example Scenario
 
-
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Bureaucratic-Mysteries7.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Bureaucratic-Mysteries7.jpg "image_tooltip")
+![example of worksheet](images/myst4-demo.jpg)
 
 
 
@@ -225,7 +208,6 @@ This activity is best done in a team setting, where everyone can contribute thei
 You've used these tools to try and get an understanding of this landscape. So what's next? Hopefully you should have a good understanding of who all the major players are, who you want to be involved where, and how you might move forward on having a positive impact. 
 
 Here's a quick checklist that can get you going on asking the questions to have impact.
-
 
 
 *   Use these tools to sketch out current AND ideal states
@@ -237,4 +219,4 @@ Here's a quick checklist that can get you going on asking the questions to have 
 
 This enhanced knowledge will help you understand where your technology and where your skills as a social entrepreneur will have the greatest impact, and by bringing those who you're hoping to work with along for the ride, hopefully you'll have made some great allies along the way.
 
-If you have any questions, contact me at alb@andrewlb.com and we can chat about how this approach might work for your specific challenge.
+If you have any questions, contact me at [alb@andrewlb.com](mailto:alb@andrewlb.com) and we can chat about how this approach might work for your specific challenge.
