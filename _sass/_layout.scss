@@ -85,6 +85,11 @@
       float:right;
       clear: right;
       border-bottom: 1px dashed #06BBB4;
+      @media only screen and (max-width: 480px) {
+        width: 100%;
+        float: none;
+        clear: both;
+      }
 
     }
 
@@ -101,6 +106,13 @@
       max-height:120px;
       float:left;
       clear: left;
+      @media only screen and (max-width: 480px) {
+        float: none;
+        clear: both;
+        width: 50%;
+        height: auto;
+        margin-left: 25%;
+      }
     }
 
     li {
