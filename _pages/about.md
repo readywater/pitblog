@@ -41,9 +41,9 @@ permalink: /about/
 			{% endif %}
 			<div class="short">
 			<h2>{{ contrib.name }}</h2>
-			{% for link in contrib.links %}
-				<a href="{{link.link}}">{{link.title}}</a><br/>
-			{% endfor %}		
+			{% if contrib.alum %}
+				<span class="alum">Alumni</span>
+			{% endif %}		
 			<ul>
 			{% for mini in contrib.mini %}
 				<li>{{mini.item}}</li>
@@ -54,5 +54,3 @@ permalink: /about/
 	</div>
 {% endfor %}
 </div>
-<a class="github-button" href="https://github.com/readywater/pitblog" data-style="mega" data-count-href="/readywater/pitblog" data-count-api="/repos/readywater/pitblog#stargazers_count" data-count-aria-label="# readywater on GitHub" aria-label="Star readywater/pitblog on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>

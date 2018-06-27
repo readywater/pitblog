@@ -3,15 +3,17 @@ layout: default
 ---
 <div class="home">
 
-  <ul class="post-list">
+  <ul class="post-list container">
     {% for post in paginator.posts %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
-          <span class="post-meta"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
-          <div class="excerpt">{{ post.description }}</div>
-        </h2>
-         
+      <li class="fix">
+        <a href="{{ post.url }}"><img class="post-image" src="{{ post.image }}"></a>
+        <div class="text">
+          <h2>
+            <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+            <span class="post-meta"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
+          </h2>
+            <div class="excerpt">{{ post.description }}</div>
+         </div>
       </li>
 
     {% endfor %}
