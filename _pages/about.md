@@ -33,7 +33,6 @@ permalink: /about/
 <div class="fellows">
 {% for contrib in site.data._config.fellows %}
 	<div class="bio">
-		{% if contrib.img %}
 		<div class="top">
 			<div class="short">
 			<h2>{{ contrib.name }}</h2>
@@ -46,9 +45,12 @@ permalink: /about/
 			{% endfor %}			
 			</ul>	
 			</div>
-			<img src="{{ contrib.img }}">
+			{% if contrib.img %}
+				<img src="http://newamericapit.github.io/_config/images/{{ contrib.img }}">
+			{%e else %}
+				<img src="http://newamericapit.github.io/_config/images/nophoto.png">
+			{% endif %}
 		</div>
-		{% endif %}
 	</div>
 {% endfor %}
 </div>

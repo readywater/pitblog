@@ -14,6 +14,14 @@ Demo: [https://pit.andrewlb.com](https://pit.andrewlb.com)
 * (Optional) Set up your custom domain and make sure to force HTTPS (may take a few days)
 * Your new site should be ready soon, but will take time to propogate.
 
+## Troubleshooting
+If the "other fellows" collection isn't being called, open your `.gitmodules` file and verify that this line is present. Github pages requires the https url ref for using submodules, vs. the standard remote git path.
+```
+[submodule "_data/_config"]
+	path = _data/_config
+	url = https://github.com/NewAmericaPIT/_config.git
+```
+
 
 ### About
 Built by Andrew Lovett-Barron
