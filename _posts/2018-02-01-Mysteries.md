@@ -9,7 +9,7 @@ tags: [social venture design, newamerica, research, propel, casestudy]
 image: '/images/posts/bureau.jpg'
 ---
 
-## Four Tools to Navigate Complexity
+# Four Tools to Navigate Complexity
 
 ## Intro
 

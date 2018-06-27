@@ -9,15 +9,14 @@ tags: [social venture design, newamerica, research, ldln, casestudy]
 image: '/images/posts/blueridge.jpg'
 ---
 
-## Blue Ridge Labs and and a modern vision for social entrepreneurship
+# Blue Ridge Labs and and a modern vision for social entrepreneurship
 
-"We run all of our accelerator programs like they're products, and with each round, we improve and iterate on that product."
+### We run all of our accelerator programs like they're products, and with each round, we improve and iterate on that product."
 
 Hannah Calhoon is the brains and no small amount of the energy behind the inspirational Blue Ridge Labs, a social enterprise accelerator that lives as part of the Robin Hood Foundation. Robin Hood's mission is to fight poverty and its corollaries in New York City, and Blue Ridge fits into this by funding and catalyzing early stage ventures that fit into that story. They provided some of the early capital for Propel, which looked to tackle the accessibility and dignity surrounding foodstamps and electronic benefits transfer. They supported UpSolve, which provides a way of reclaiming financial independence for low-income Americans saddled with crippling debt. They also supported JustFix.nyc, a social venture which provides tools and technical support for the low-income housing and tenant advocacy space.
 
 Under Hannah's guidance, Blue Ridge Labs is one of a small number of accelerators and funding vehicles in the public interest financing space that addresses the needs of early stage technology social ventures in an effective and sustainable way. This means that they provide funding, mentorship, consulting support, and access to future funding vehicles in ways that are effectively tailored to their investees.
 
- \
 Perhaps most significantly, they are also able to support both for-profit and not-for-profit social enterprises. This allows them to focus on the mission of poverty alleviation in New York City, and not the means through which that mission is accomplished. Many in the philanthropic sector would argue that a for-profit corporate structure is anathema to a truly mission driven venture. But Blue Ridge Lab's success in funding social enterprises across a variety of different corporate structures challenges this model. Part of why they've succeeded is in how Hannah and her team got started.
 
 

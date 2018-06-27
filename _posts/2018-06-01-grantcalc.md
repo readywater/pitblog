@@ -9,8 +9,6 @@ tags: [social venture design, newamerica, research, ldln, casestudy]
 image: '/images/posts/grantcalc.jpg'
 ---
 
-![Grant Calculator](images/posts/grantcalc.jpg)
-
 What if we made it easier for non-profits to know how much their time was really worth? What if we could surface this true cost of fundraising activities to those engaged in the philanthropic ecosystem? What would the non-profit ecosystem look like if the value of people's time was measured accurately, and the value of a grant seeking (and making) – a time consuming but vital first step in value delivery for the nonprofit ecosystem – could be considered more objectively by its participants?
 
 We built the Grant Calculator with this idea in mind: to provide a compelling and useful experience for grant seekers and grant makers who want to explore the opportunities presented by the philanthropic landscape, to understand the costs of pursuing and getting needed funds and the resulting net usable value of those funds, and make better choices for themselves and their beneficiaries. 
