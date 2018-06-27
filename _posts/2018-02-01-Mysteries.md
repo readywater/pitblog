@@ -3,7 +3,7 @@ layout: post
 title: "Bureaucratic Mysteries"
 author: Andrew Lovett-Barron
 permalink: design-thinking-for-gov
-description: Four tools to lear your workshop
+description: Four tools for public interest makers to navigating bureaucracy
 comments: true
 tags: [social venture design, newamerica, research, propel, casestudy]
 image: '/images/posts/bureau.jpg'
