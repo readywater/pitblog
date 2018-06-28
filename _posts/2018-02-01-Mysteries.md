@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Bureaucratic Mysteries"
+title: "Bureaucratic Mysteries: Design tools for government"
 author: Andrew Lovett-Barron
 permalink: design-thinking-for-gov
 description: Four tools for public interest makers to navigating bureaucracy
 comments: true
-tags: [social venture design, newamerica, research, propel, casestudy]
+tags: [social venture design, newamerica, research, design thinking, workshop]
 image: '/images/posts/bureau.jpg'
 ---
 
@@ -19,7 +19,7 @@ Building the actual product or technology is rarely the coda on the work that is
 
 In my time at the US Digital Service, IDEO, and more recently New America , there are a set of tools I often apply in working through this complexity, and communicating that complexity with my team. And a significant part of this technique I believe comes from some mental muscles I developed in college studying classical literature. In Homer's Iliad and Odyssey, the characters create a densely interconnected – but logical– community of influence. Zeus sits as king: impertinent, meddling, and cruel. Hera is at his side, manipulative, jealous, but loyal. Athena is the goddess of wisdom and all things military: untouchable, disciplined, and wise. Hercules is the human face of divinity: brash, contradictory, and flawed.
 
-Each of the gods in the Pantheon represented a place in Greek cultural thought. They serve as metaphors through which people described the world, and rationalized what they observed in iit. In doing our work as government technologists, we daily encounter the same mythologies. Bureaucracy ebbs and flows in its daily patterns, but when the dam bursts or the crops die, we scramble for explanations as to why. 
+Each of the gods in the Pantheon represented a place in Greek cultural thought. They are metaphors through which people described the world, and rationalized what they observed in it. In doing our work as government technologists, we daily encounter the same mythologies. Bureaucracy ebbs and flows in its daily patterns, but when the dam bursts or the crops die, we scramble for explanations as to why. 
 
 The goal of these tools is to untangle the web of stakeholders that make up any given technology project, and to identify from the chaos the actors who appear most frequently in the story, who wield the most power, and who seem to hold sway over the narrative. If we can see that clearly, maybe we can push towards a better ending.
 
@@ -27,38 +27,40 @@ The goal of these tools is to untangle the web of stakeholders that make up any 
 
 Bureaucracies are enduring because they codify understanding of a system through regulation and daily practice. 
 
-One of the strangest things I encountered in government and civil society was a manual practice of estimation. Every week, a group would run an ancient desktop program that created a model of resource distribution. This model would be manipulated by two operators (one of whom we'll come back to later) to create a "recommendation" for how these resources might be moved between locations. This model was then transmitted through a variety of systems, and eventually landed at the desk of a planner. The planner promptly threw it out, and proceeded to run their own model through a combination of automated and manual processes, which was then implemented and acted upon. One of the operators who I mentioned earlier, having realized their sisyphean task, had more or less given up. His colleague continued to diligently push the boulder uphill.
+One of the strangest things I encountered in government and civil society was a manual practice of estimation. Every week, a group would run an ancient desktop program that created a model of resource distribution. This model would be manipulated by two operators (one of whom we'll come back to later) to create a "recommendation" for how these resources might be moved between locations. This model was then transmitted through a variety of systems, and eventually landed at the desk of a planner. The planner promptly threw it out, and proceeded to run their own model through a combination of automated and manual processes. These processes were then implemented and acted upon. One of the operators who I mentioned earlier, having realized their sisyphean task, had more or less given up. His colleague continued to diligently push the boulder uphill.
 
-To me, Sisyphus –the Greek legend of a cursed king forever pushing a boulder up a hill, only to have it roll down again– is the patron saint of bureaucracies. Nominally, he is being punished for his ways of subversion and deceit – breaking rules that were core to the Greek understanding of society. Bureaucracies are created to enforce and act along defined rulesets, and to enforce these rulesets, specific structures and systems calcify around them. These systems tend to follow rules themselves, each of which is specific to the organizations in question.
+Sisyphus is a Greek legend of a cursed king forever pushing a boulder up a hill, only to have it roll down again. He is also patron saint of bureaucracies (at least to me). Nominally, he is being punished for his ways of subversion and deceit – breaking rules that were core to the Greek understanding of society. Bureaucracies are created to enforce and act along defined rulesets, and to enforce these rulesets, specific structures and systems calcify around them. These systems tend to follow rules themselves, each of which is specific to the organizations in question.
 
 ### Playbook
 
-You're a young social entrepreneur with a head for technology and a desire to have impact. Unfortunately, you have just beamed into a confusing landscape of different agencies and organizations, interests and histories. Your mission is figure out what is going on, and hopefully identify why your constituents are receiving such terrible services. However, you don't know everything: after all, you have your experiences to work from and don't really understand the experiences of those who have been working so long to deliver these services in the first place. So your job is to get to know the landscape before you can hope to change it.
+You're a young social entrepreneur with a head for technology and a desire to have impact. Unfortunately, you have just beamed into a confusing landscape of different agencies and organizations, interests and histories. Your mission is figure out what is going on, and hopefully identify why your constituents are receiving such terrible services. However, you don't know everything: after all, you have your experiences to work from and don't really understand the experiences of those who have been working so long to deliver these services in the first place. You need to get to know the landscape before you can hope to change it.
 
 Here's a quick checklist of things to know BEFORE and DURING your use of these tools.
 
 **PRE-REQ**
-*   Get introductions
-*   Know the ranks (eg. in US, GS scale and mil ranks)
-*   Know the acronyms (USTRANSCOM, FYSA, USCENTCOM, etc)
-*   Know the key players (commanders, public figures, major past projects)
+- Get introductions
+- Know the ranks (eg. in US, GS scale and mil ranks)
+- Know the acronyms (USTRANSCOM, FYSA, USCENTCOM, etc)
+- Know the key players (commanders, public figures, major past projects)
 
 **Environmental Scan**
-*   Go to whatever agency you're in
-*   Get to know the stakeholders
-*   Find the highest level buy-in person you can: in DOD that was a combatant command general or a secretary
-*   Go to the place where the work happens
-*   Stay there for a while and just wander around talking to people and knocking on doors
+- Go to whatever agency you're in
+- Get to know the stakeholders
+- Find the highest level buy-in person you can: in DOD that was a combatant command general or a secretary
+- Go to the place where the work happens
+- Stay there for a while and just wander around talking to people and knocking on doors
 
 **Situational Awareness**
-*   Map out the territory
-*   Who is everyone? Be specific. Write down names, job titles, what they do, who they report to, where they sit.
-*   Get security card access. ALWAYS.
-*   Get to know the security people.
-*   Get to know the people who do the work (low levels)
+- Map out the territory
+- Who is everyone? Be specific. Write down names, job titles, what they do, who they report to, where they sit.
+- Get security card access. ALWAYS.
+- Get to know the security people.
+- Get to know the people who do the work (low levels)
 
+So once some of all of these are in place, now what?
 
 ## Tools for Understanding
+Below are four tools that build on top of each other, and will give you some of the hard-to-get information you need to move forward and make decisions.
 
 ### Archetypes - Identifying Roles
 
@@ -111,7 +113,7 @@ Here, we map out a series of blueprints that map to the bureaucracies core funct
 
 #### Why?
 
-The goal of this activity is to make this flow, failure points, and handoffs of a system obvious, and to be able to easily re-tell the story to the stakeholders involved. This tool pays dividends later on as well when re-designing a service, beyond our focus on stakeholder mapping in this group of tools.
+The goal of this activity is to make this flow, failure points, and handoffs of a system obvious. We also need to be able to easily re-tell the story to the stakeholders involved. This tool pays dividends later on as well when re-designing a service, beyond our focus on stakeholder mapping in this group of tools.
 
 
 #### How To
@@ -137,7 +139,7 @@ The path is important because it tells us where one smaller story starts, where 
 
 ### Mapping the Actors (Figuring out your wedge)
 
-Mapping the importance of characters within the ecosystem is a tool for the individual and for the team to prioritize characters within the narrative. Matthew Weaver, one of the early US Digital Service leads known as "Rogue Leader" often said "There is no bottom" when referring to bureaucratic –and therefore human– challenges. But if there's no bottom, then at least we can focus on the space around us to try and affect change.
+Mapping the importance of characters within the ecosystem is a tool for the individual and for the team to prioritize characters within the narrative. Matthew Weaver, one of the early US Digital Service leads who went by "Rogue Leader" often said "There is no bottom" when referring to bureaucratic challenges. But if there's no bottom, then at least we can focus on the space around us to try and affect change.
 
 This activity is focused on looking at our cast of characters and our maps, and developing a sense of who is important. Who is on our core team, or our confidant? Who is in every meeting and has a stake, but isn't that core trusted figure? Who needs to be kept in the know or appears from time to time, but doesn't need to be apprised of everything, or might contribute very specific and narrow value? Who do you want to push out, or just inform on a need to know basis? 
 
@@ -153,7 +155,7 @@ By asking these questions objectively and looking at the dynamics of who you wan
 
 Start by going through each of the archetypes. In pen or pencil, draw a little caricature or symbol, and write their name and what they do along the graph. You can also write them on small post-it notes or stickers, to let you move people around. 
 
-Looking at the two axes on the graph, plot where they might be. This particular graph is _biased_ towards importance to project vs. importance to bureaucracy when defining the different circles. As you draw out the different actors, always write down the REALITY of where they are, vs the IDEAL of where they might be. To represent that ideal, use arrows to communicate with your team where these folk should ideally be, and use that as a starting point to discuss how you might get them there. 
+Looking at the two axes on the graph, plot where they might be. This particular graph is intentionally _biased_ towards importance to project vs. importance to bureaucracy when defining the different circles. If there are other biases or relationships that need to be captured, make sure you do that as well! As you draw out the different actors, always write down the REALITY of where they are, vs the IDEAL of where they might be. To represent that ideal, use arrows to communicate with your team where these folk should ideally be, and use that as a starting point to discuss how you might get them there. 
 
 
 #### Worksheet
@@ -169,16 +171,18 @@ Looking at the two axes on the graph, plot where they might be. This particular 
 
 ### The Mysteries (Mapping the dark matter)
 
-There's the HIERARCHY of a bureaucracies and the SUBSTRUCTURE of the bureaucracy. The hierarchy exists above the surface and is often already mapped. The substructure exists below the surface and is non-obvious, but becomes intuitive to those who exist in that bureaucracy for long enough.
+There's the HIERARCHY of a bureaucracies and the SUBSTRUCTURE of the bureaucracy. The hierarchy exists above the surface and is often already mapped (or at least overt). The substructure exists below the surface and is non-obvious, but becomes intuitive to those who exist in that bureaucracy for long enough.
 
 Consider the legend of Zeus and Dionysus. Dionysus is a translation of a hedonistic cult religion in the very early days of Greece. He's the god of wine and alcohol, and also of madness. He doesn't fit very well into the Pantheon, and yet is pervasive in Greek legends and tragedy. The Dionysian Mysteries were a set of practices that effectively undermined social constraints: a classical world version of basement concerts and beer pong. EVERY society has these things, as does every bureaucracy. They play the role of subverting the entrenched structure to really get things done. In this case, we want to understand WHO is a catalyst for this, WHERE these events occur, and WHY things have ended up this way. What are the stories behind the stories that make us need to break free?
+
+In a research sprint I did at a hospital, I discovered that the real connectors were program admins: across deeply siloed research and technical units, the program admins were all only one or two steps removed from each other and _always_ knew which other admin to connect with after about 6mo on the job. These admins became de-facto gatekeepers to the programs, despite not having substantive power or title, and ultimately the design work (building more densely networked and open programs) resolved around their needs and capacity.
 
 
 #### Why?
 
 This penultimate tool is meant to be a practical and evolving sketchpad throughout the program's evolution. It should serve as a reference point within the team when making decisions about stakeholders and developing strategies for moving forward. 
 
-Also, and I apologize to our government friends, it's also not always the best tool to share with your clients and government partners. This is a planning tool for the consultant team to make sense of an environment that everyone else takes for granted.
+Also, and I apologize to our government friends, it's also not always the best tool to share with your clients and government partners. This is a planning tool for the consultant team to make sense of an environment that everyone else takes for granted
 
 
 #### How To
