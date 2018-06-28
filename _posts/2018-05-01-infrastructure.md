@@ -3,7 +3,7 @@ layout: post
 title: "Bootstrapping Infrastructure in the Public Interest"
 permalink: infrastructure-for-good
 author: Andrew Lovett-Barron
-description:Bootstrapping and Disaster Relief Tech
+description: Bootstrapping and Disaster Relief Tech
 comments: true
 tags: [social venture design, newamerica, research, ldln, casestudy]
 image: '/images/posts/ldln.jpg'
