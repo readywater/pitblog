@@ -12,7 +12,7 @@ image: '/images/posts/buildplane.jpg'
 I'm always curious about what is happening behind the wall and underneath the streets. The infrastructure (human, informational, mechanical) that constructs our lives is something that we often engage with in superficial ways. When I left the US Digital Service in early 2017 to join the first cohort of the New America Public Interest Tech fellowship, I was given the opportunity to learn a bit about the business models that underpin our public interest technology landscape. Specifically, I wanted to meet the teams building the technology that is increasingly being recruited to advance the public interest. 
 
 
-# #Emerging field
+## Emerging field
 
 Public Interest Technology is both emerging and well established in 2018. Chat with anyone of us who had spent some time in the US Digital Service, or doing technology in civil society (like, say, the [incredible digital teams at Planned Parenthood](https://www.fastcodesign.com/90138079/people-love-that-its-not-pink-how-planned-parenthood-built-a-period-tracker-for-everyone)), and you'll hear stories dating back years about how technology best practices have been leveraged for good. 
 
